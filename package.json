@@ -41,7 +41,7 @@
     "knip": "^6.0.6",
     "prettier": "^3.8.1",
     "shelljs": "^0.8.5",
-    "ts-jest": "^29.4.6",
+    "ts-jest": "^29.4.9",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   },
